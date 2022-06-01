@@ -1,0 +1,10 @@
+.container {
+    width: 280px;
+    margin: auto;
+}
+
+.search-btn {
+    width: 100%;
+    min-width: 34px;
+    height: 30px;
+}
